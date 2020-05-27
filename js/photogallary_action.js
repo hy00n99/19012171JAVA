@@ -9,7 +9,7 @@ function showing(element){
     x.src=src="imgs/twice2.jpg";
   }
   if (element.alt=="정연"){
-    x.src=src="imgs/twice3.jpg";
+    x.src=src="imgs/twice3.JPG";
   }
   if (element.alt=="다현"){
     x.src=src="imgs/twice4.jpg";
